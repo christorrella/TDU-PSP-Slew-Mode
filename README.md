@@ -22,7 +22,7 @@ Slew Mode options can be selected by cycling through the Slew Mode menu with sub
 
 ![Slew Mode Menu Image](https://github.com/christorrella/TDU-Slew-Mode/blob/main/SlewModeMenu.png?raw=true)
 
-Note that this cheat leverages the existing TCS Mode (Traction Control Setting) menu in the game, allowing for easy usage of Slew Mode from within the game. Because of this, TCS is effectively locked in a "disabled" state until the cheat is disabled from PPSSPP's Cheats pause menu and the game is re-loaded.
+Note that this cheat hijacks the existing Driving Mode/TCS (Traction Control System) menu, allowing for easy usage of Slew Mode from within the game. Because of this, TCS is effectively locked in a "disabled" state until the cheat is disabled from PPSSPP's Cheats pause menu and the game is re-loaded.
 
 ## Menu Options
 The Slew Mode menu cycles through three different modes: 'Speed 5', 'Speed 1', and 'Disable'.
