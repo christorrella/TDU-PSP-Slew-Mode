@@ -1,6 +1,6 @@
 # Slew Mode for Test Drive Unlimited PSP
 
-Slew Mode was written to allow the player to move their vehicle almost anywhere on the map, from the tops of high-rise buildings in Waikiki to the Secret Island off the coast of Makapu'u.
+Slew Mode allows the player to move their vehicle almost anywhere on the map, from the tops of high-rise buildings in Waikiki to the Secret Island off the coast of Makapu'u.
 
 # Compatibility
 
