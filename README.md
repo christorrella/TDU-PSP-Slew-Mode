@@ -8,7 +8,7 @@ Currently this cheat is only compatible with the USA region version of the game 
 
 # Installation
 
-1. Copy the ULUS10249.ini file into the "Cheats" directory for PPSSPP
+1. Copy the ULUS10249.ini file into the "Cheats" directory for PPSSPP (or copy its contents into an existing ULUS10249.ini file)
 2. Enable Cheats in PPSSPP's System Settings
 3. Enable the cheat in the PPSSPP pause menu under "Cheats" while the game is running
 
