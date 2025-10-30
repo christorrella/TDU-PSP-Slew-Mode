@@ -6,23 +6,34 @@ Slew Mode allows the player to move their vehicle almost anywhere on the map, fr
 
 Currently this cheat is only compatible with the USA region version of the game (ULUS10249). If there's enough requests from the community to port it to other regions, I may do so.
 
+# Changelog
+
+v0.2 - Now supports real PSP hardware! Tested with my PSP-2001 running 6.60 PRO-C2 and CWcheat 0.2.3.
+
 # Installation
+
+PPSSPP:
 
 1. Copy the ULUS10249.ini file into the "Cheats" directory for PPSSPP (or copy its contents into an existing ULUS10249.ini file)
 2. Enable Cheats in PPSSPP's System Settings
 3. Enable the cheat in the PPSSPP pause menu under "Cheats" while the game is running
 
+PSP:
+
+1. Copy the contents of ULUS10249.ini into your cwcheats cheats database file located at \seplugins\cwcheat\cheats.db
+2. Enable cheats in cwcheat from the cwcheat menu
+
 # In-Game Usage
 
-## Pulling Up the Menu
+## Opening the Slew Mode menu
 
-The Slew Mode menu can be accessed at any point while driving on the map by pressing Right on the D-Pad. 
+The Slew Mode menu can be accessed at any point while driving by pressing Right on the D-Pad. 
 
 Slew Mode options can be selected by cycling through the Slew Mode menu with subsequent presses of Right on the D-Pad.
 
 ![Slew Mode Menu Image](https://github.com/christorrella/TDU-Slew-Mode/blob/main/SlewModeMenu.png?raw=true)
 
-Note that this cheat hijacks the existing Driving Mode/TCS (Traction Control System) menu, allowing for easy usage of Slew Mode from within the game. Because of this, TCS is effectively locked in a "disabled" state until the cheat is disabled from PPSSPP's Cheats pause menu and the game is re-loaded.
+Note that this cheat hijacks the existing Driving Mode/TCS (Traction Control System) menu, allowing for easy usage of Slew Mode from within the game. Because of this, TCS is effectively locked in a "disabled" state until the cheat is disabled and the game is re-loaded.
 
 ## Menu Options
 The Slew Mode menu cycles through three different modes: 'Speed 5', 'Speed 1', and 'Disable'.
