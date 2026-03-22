@@ -8,6 +8,8 @@ Currently this cheat is only compatible with the USA region version of the game 
 
 # Changelog
 
+v0.3 - The rate of change of the player's vehicle movement in any of the cardinal directions is proportionally calculated as a function of the displacement of the analog stick in the desired movement direction. This change creates a smoother feel when moving the vehicle around the map.
+
 v0.2 - Now supports real PSP hardware! Tested with my PSP-2001 running 6.60 PRO-C2 and CWcheat 0.2.3.
 
 # Installation
